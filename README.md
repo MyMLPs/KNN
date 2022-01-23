@@ -1,2 +1,2 @@
-# KNN 
-# k-Nearest Neighbours for classification
+# KNN Project
+ k-Nearest Neighbours for classification
